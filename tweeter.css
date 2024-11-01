@@ -1,0 +1,17 @@
+div.rss_item{
+  border:1px solid grey;
+  padding:5px;
+  margin:5px;
+}
+
+.column-tweet_button{ 
+   width: 130 !important; 
+}
+
+th#tweet_button{
+  width: 130 !important; 
+}
+
+.column-tweet_button{ 
+	width: 130px !important;
+}
